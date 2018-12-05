@@ -20,11 +20,17 @@
 		"zendframework/zend-test" : "*",
 		"twitter/bootstrap" : "4.1.3",
 		"zendframework/zend-mvc-plugin-flashmessenger" : "*",
-		"zendframework/zend-navigation" : "*"
+		"zendframework/zend-navigation" : "*",
+		"zendframework/zend-db" : "*",
+		"zendframework/zend-i18n" : "*",
+		"zendframework/zend-form" : "*",
+		"zendframework/zend-crypt" : "*"
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Application\\" : "module/Application/src/"
+			"Application\\" : "module/Application/src/",
+			"Streetlamp\\" : "module/Streetlamp/src/",
+			"Midnet\\" : "module/Midnet/src"
 		}
 	},
 	"autoload-dev" : {
