@@ -16,8 +16,6 @@
 		"zendframework/zend-component-installer" : "^1.0 || ^0.7 || ^1.0.0-dev@dev",
 		"zendframework/zend-mvc" : "^3.0.1",
 		"zfcampus/zf-development-mode" : "^3.0",
-		"phpunit/phpunit" : "*",
-		"zendframework/zend-test" : "*",
 		"twitter/bootstrap" : "4.1.3",
 		"zendframework/zend-mvc-plugin-flashmessenger" : "*",
 		"zendframework/zend-navigation" : "*",
