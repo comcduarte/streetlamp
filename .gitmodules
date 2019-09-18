@@ -1,6 +1,6 @@
-[submodule "module\\Streetlamp"]
-	path = module\\Streetlamp
-	url = ssh://git@github.com/comcduarte/lampModule
+[submodule "module/Streetlamp"]
+	path = module/Streetlamp
+	url = https://github.com/comcduarte/lampModule
 [submodule "module/Midnet"]
 	path = module/Midnet
-	url = ssh://git@github.com/comcduarte/midnetModule
+	url = https://github.com/comcduarte/midnetModule
