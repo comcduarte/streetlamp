@@ -1,6 +1,6 @@
-[submodule "module/Streetlamp"]
-	path = module/Streetlamp
-	url = https://github.com/comcduarte/lampModule
 [submodule "module/Midnet"]
 	path = module/Midnet
-	url = https://github.com/comcduarte/midnetModule
+	url = https://github.com/comcduarte/midnetModule.git
+[submodule "module/Streetlamp"]
+	path = module/Streetlamp
+	url = https://github.com/comcduarte/lampModule.git
