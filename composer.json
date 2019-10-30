@@ -21,7 +21,7 @@
 		"zendframework/zend-navigation" : "*",
 		"zendframework/zend-db" : "*",
 		"zendframework/zend-i18n" : "*",
-		"zendframework/zend-form" : "*",
+		"zendframework/zend-form" : "2.12.0",
 		"zendframework/zend-crypt" : "*"
 	},
 	"autoload" : {
